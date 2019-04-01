@@ -4,7 +4,7 @@ Aplicación de ejemplo desarrollada en la capacitación
 
 ### Intalacion de paquetes npm
 
-Ingresar en la carpeta web desde una consola y ejevutar el comando `npm i`
+Ingresar en la carpeta web desde una consola y ejecutar el comando `npm i`
 
 ### Documentacion
 
